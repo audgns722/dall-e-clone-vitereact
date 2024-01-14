@@ -13,8 +13,7 @@
 미리보기 :
 
 <div align=center>
-<img width=100% src="![image](https://github.com/audgns722/dall-e-clone-vitereact/assets/144664895/a706f899-49df-41bb-bf65-950b2b09f4b7)
-">
+<img width=100% src="https://github.com/audgns722/dall-e-clone-vitereact/assets/144664895/a706f899-49df-41bb-bf65-950b2b09f4b7">
 </div>
 
 ## 프로젝트 구성
