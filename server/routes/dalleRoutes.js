@@ -22,7 +22,7 @@ router.route("/").post(async (req, res) => {
       prompt,
       n: 1,
       size: "256x256", // 해상도 변경
-      model: "dall-e-2", // 모델 변경
+      // model: "dall-e-2", // 모델 변경
       response_format: "b64_json",
     });
 
